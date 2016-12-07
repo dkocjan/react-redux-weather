@@ -1,9 +1,12 @@
-# React Redux Weather Forecast
+# React Redux Weather
 Simple React-Redux weather forecasts.
+-----
 ### Using:
-1. React / Redux
-2. Webpack
-3. ES6 + Babel
-4. Bootstrap4
-5. BrowserSync
-6. OpenWeatherMap.org
+* React / Redux
+* Webpack
+* ES6 + Babel
+* Bootstrap4
+* BrowserSync
+* Redux Promise Middleware
+* Axios
+* OpenWeatherMap.org
