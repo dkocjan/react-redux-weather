@@ -6,3 +6,4 @@ Simple React-Redux weather forecasts.
 3. ES6 + Babel
 4. Bootstrap4
 5. BrowserSync
+6. OpenWeatherMap.org
