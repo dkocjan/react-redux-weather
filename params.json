@@ -1,6 +1,0 @@
-{
-  "name": "React-redux-weather",
-  "tagline": "",
-  "body": "# React Redux Weather Forecast\r\nSimple React-Redux weather forecasts.\r\n### Using:\r\n1. React / Redux\r\n2. Webpack\r\n3. ES6 + Babel\r\n4. Bootstrap4\r\n5. BrowserSync",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
