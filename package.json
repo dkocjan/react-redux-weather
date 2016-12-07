@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple React-Redux weather forecasts.",
   "main": "index.js",
-  "repository": "",
+  "repository": "git@github.com:dkocjan/react-redux-weather.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
