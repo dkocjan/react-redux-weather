@@ -9,5 +9,6 @@ Simple React-Redux weather forecasts.
 * Axios
 * Lodash
 * Bootstrap4
-* OpenWeatherMap.org
+* OpenWeatherMap API
+* React Google Maps
 * BrowserSync

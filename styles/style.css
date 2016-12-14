@@ -6,3 +6,28 @@
   /*height:60px !important;*/
   opacity: 0.2 !important;
 }
+
+/*  */
+.input-group {
+  margin: 25px 0;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+th {
+  min-width: 25% !important;
+}
+
+@media (max-width: 768px) {
+  th {
+    width: 33.333% !important;
+  }
+}
+
+td:first-of-type {
+  height: 200px;
+  width: 250px;
+}
