@@ -2,11 +2,11 @@
 Simple React-Redux weather forecasts.
 -----
 ### Using:
-* React / Redux
 * Webpack
 * ES6 + Babel
-* Bootstrap4
-* BrowserSync
-* Redux Promise Middleware
+* React
+* Redux + Redux-Promise Middleware
 * Axios
+* Bootstrap4
 * OpenWeatherMap.org
+* BrowserSync
