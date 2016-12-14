@@ -7,6 +7,7 @@ Simple React-Redux weather forecasts.
 * React
 * Redux + Redux-Promise Middleware
 * Axios
+* Lodash
 * Bootstrap4
 * OpenWeatherMap.org
 * BrowserSync
